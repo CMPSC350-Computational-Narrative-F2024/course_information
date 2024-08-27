@@ -9,8 +9,8 @@ This repository contains information about the Computational Narrative course, i
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
 - [Learning Outcomes](#Learning-Outcomes)
-- [Community Guidelines](#Community-Guidelines)
 - [Course Policies](#Policies)
+- [Allegheny College Policy and Awareness Statements](#Allegheny-College-Policy-and-Awareness-Statements)
 
 ## Course Flow and Schedule
 
@@ -199,7 +199,7 @@ The [Gator Success Grant](https://sites.allegheny.edu/gator-success-grants/) pro
 
 Experienced peer writing and speaking consultants in the Maytum Center for Student Success help writers and speakers make academically responsible choices and determine strategies for effective communication at any stage in the writing or speaking process, for assignments in any discipline, or for writing and speaking situations unrelated to coursework (e.g., personal statements, cover letters, interviews, conference presentations). Both appointments and drop-in sessions are available. To view the hours of operation, and to make an appointment, visit the [Maytum Center for Student Success website](https://sites.allegheny.edu/maytum-center-student-success/writing-speech/).
 
-### Gator Days and Scholar Symposium (prepared by MCSS and URSCA) 
+#### Gator Days and Scholar Symposium (prepared by MCSS and URSCA) 
 
 In each semester, we have one Gator Day set aside for programming, with no classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook – Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus. We 
 
