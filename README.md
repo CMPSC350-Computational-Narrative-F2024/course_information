@@ -28,7 +28,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 Week #         | Topic                      | Activities/Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
-1 (Aug.26-30) | Introduction to the course. Narrative. |                         |
+1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). Narrative. |                         |
 2 (Sep.2-6)   | No Class on September 2nd. | Narrative Design.                        |
 3 (Sep.9-13)  | Constraints. |                        |
 4 (Sep.16-20) | Hypertext  |                         |
