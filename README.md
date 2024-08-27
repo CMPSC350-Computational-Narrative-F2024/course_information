@@ -28,19 +28,19 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 Week #         | Topic                      | Activities/Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
-1 (Aug.26-30) | Introduction to the course |                         |
-2 (Sep.2-6)   | No Class on September 2nd|                         |
-3 (Sep.9-13)  | |                         |
-4 (Sep.16-20) |  |                         |
-5 (Sep.23-27) |  |                         |
-6 (Sep.30-Oct.4) |  |                         |
+1 (Aug.26-30) | Introduction to the course. Narrative. |                         |
+2 (Sep.2-6)   | No Class on September 2nd. | Narrative Design.                        |
+3 (Sep.9-13)  | Constraints. |                        |
+4 (Sep.16-20) | Hypertext  |                         |
+5 (Sep.23-27) | Grammar-based generation  |                         |
+6 (Sep.30-Oct.4) | Grammar-based generation |                         |
 7 (Oct.7-11) | No class on October 11th.|                         |
-8 (Oct.14-18) | |                         |
-9 (Oct.21-25) |  |                         |
-10 (Oct.28-Nov.1) | |                         |
-11 (Nov.4-8) |  |                         |
+8 (Oct.14-18) | Simulation and narrative|                         |
+9 (Oct.21-25) | Critical computation |                         |
+10 (Oct.28-Nov.1) | Fiction and world models |                         |
+11 (Nov.4-8) | Visual narrative |                         |
 12 (Nov.11-15) | No class on November 11th. |                         |
-13 (Nov.18-22) |  |                         |
+13 (Nov.18-22) | Final Content work time. |                         |
 14 (Nov.25-29) | Final Content work time. No classes on Nov 27-29. |                         |
 15 (Dec.2-6) | Final Content work time |                         |
 16 (Dec.9-13) | Final Content Showcase |                         |
