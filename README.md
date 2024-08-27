@@ -111,7 +111,6 @@ This semester -- at least up to the point where the college requires that I assi
 
 At the end of the semester, I have to give you a grade, and for that we will follow this contract. Given that this course relies on process, this contract shapes itself around the idea that students engage and participate at a meaningful level.
 
-
 |Final letter grade |Projects completed|Prompts completed|Critiques|Peer Feedback|Reading Discussion|Final product |
 |-------------------|-----------------|-----------------|----------|-------------|----------------|----------------|
 |A                  |3                |8                |3         |18           |1               |✓
