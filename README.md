@@ -87,7 +87,7 @@ There is no required materials for this course. All reading material will be pro
 
   Course learning outcomes 2 and 3 satisfy HE learning outcome.
 
-- Modes of Expression (ME): he study of Modes of Expression explores individual and/or collective modes of expression, focusing upon the ways in which these modes create meaning and communicate thoughts, emotions, or beliefs to others. By engaging in hands-on experience, students interrogate the act of communication itself.
+- Modes of Expression (ME): The study of Modes of Expression explores individual and/or collective modes of expression, focusing upon the ways in which these modes create meaning and communicate thoughts, emotions, or beliefs to others. By engaging in hands-on experience, students interrogate the act of communication itself.
 
     Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the production of meaning through active engagement with language, visual arts, and/or performance.
 
