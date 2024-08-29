@@ -30,7 +30,7 @@ Week #         | Topic                      | Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
 1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). [Narrative](https://docs.google.com/presentation/d/1WwFhxsR0jzQbvhEaduDkxWGIKZLjB12yNNpN85sWNUE/pub?start=false&loop=false&delayms=3000). | --- | Syllabus. [Policies](https://www.cis.allegheny.edu/teaching/policies/).
 2 (Sep.2-6)   | No Class on September 2nd. | Narrative Design.                        |
-3 (Sep.9-13)  | Constraints. |                        |
+3 (Sep.9-13)  | No Class on September 9th. Constraints. |                        |
 4 (Sep.16-20) | Hypertext  |                         |
 5 (Sep.23-27) | Environmental Storytelling  |                         |
 6 (Sep.30-Oct.4) | Grammar-based generation |                         |
