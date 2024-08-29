@@ -26,13 +26,13 @@ the caveat that session purposes may change slightly given course circumstances.
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change.
 
-Week #         | Topic                      | Activities/Assignments  | Reading
+Week #         | Topic                      | Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
-1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). Narrative. |                         |
+1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). [Narrative](https://docs.google.com/presentation/d/1WwFhxsR0jzQbvhEaduDkxWGIKZLjB12yNNpN85sWNUE/pub?start=false&loop=false&delayms=3000). | --- | Syllabus. [Policies](https://www.cis.allegheny.edu/teaching/policies/).
 2 (Sep.2-6)   | No Class on September 2nd. | Narrative Design.                        |
 3 (Sep.9-13)  | Constraints. |                        |
 4 (Sep.16-20) | Hypertext  |                         |
-5 (Sep.23-27) | Grammar-based generation  |                         |
+5 (Sep.23-27) | Environmental Storytelling  |                         |
 6 (Sep.30-Oct.4) | Grammar-based generation |                         |
 7 (Oct.7-11) | No class on October 11th.|                         |
 8 (Oct.14-18) | Simulation and narrative|                         |
@@ -101,7 +101,7 @@ GitHub and Discord are the main digital channels used in this course for communi
 
 ### Department Policies
 
-In this course, we will follow department's policies regarding attendance, late assignment submissions, and AI use. 
+In this course, we will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. 
 
 ### Grading
 
