@@ -29,21 +29,21 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week #         | Topic                      | Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
 1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). [Narrative](https://docs.google.com/presentation/d/1WwFhxsR0jzQbvhEaduDkxWGIKZLjB12yNNpN85sWNUE/pub?start=false&loop=false&delayms=3000). | --- | Syllabus. [Policies](https://www.cis.allegheny.edu/teaching/policies/).
-2 (Sep.2-6)   | No Class on September 2nd. | Narrative Design.                        |
-3 (Sep.9-13)  | No Class on September 9th. Constraints. |                        |
-4 (Sep.16-20) | Hypertext  |                         |
-5 (Sep.23-27) | Environmental Storytelling  |                         |
-6 (Sep.30-Oct.4) | Grammar-based generation |                         |
-7 (Oct.7-11) | No class on October 11th.|                         |
-8 (Oct.14-18) | Simulation and narrative|                         |
-9 (Oct.21-25) | Critical computation |                         |
-10 (Oct.28-Nov.1) | Fiction and world models |                         |
-11 (Nov.4-8) | Visual narrative |                         |
-12 (Nov.11-15) | No class on November 11th. |                         |
-13 (Nov.18-22) | Final Content work time. |                         |
-14 (Nov.25-29) | Final Content work time. No classes on Nov 27-29. |                         |
-15 (Dec.2-6) | Final Content work time |                         |
-16 (Dec.9-13) | Final Content Showcase |                         |
+2 (Sep.2-6)   | No Class on September 2nd. Narrative Design. [Twine](http://twinery.org/). |  [Project 1]()    |
+3 (Sep.9-13)  | No Class on September 9th. Constraints. | [Project 1 continued]() |
+4 (Sep.16-20) | Constraints.  | [Project 1 continued]() | 
+5 (Sep.23-27) | Environmental Storytelling  | [Project 1 DUE]() [Project 2]() |
+6 (Sep.30-Oct.4) | Grammar-based generation | [Project 2 continued]() |
+7 (Oct.7-11) | No class on October 11th.| [Project 2 continued]() |
+8 (Oct.14-18) | Simulation and narrative|  [Project 2 DUE]() [Project 3]() |
+9 (Oct.21-25) | Critical computation |  [Project 3 continued]() |
+10 (Oct.28-Nov.1) | Fiction and world models | [Project 3 continued]() |
+11 (Nov.4-8) | Visual narrative |  [Project 3 DUE]() |
+12 (Nov.11-15) | No class on November 11th. | [Final Product]()  |
+13 (Nov.18-22) | Final Content work time. | [Final Product continued]()  |
+14 (Nov.25-29) | Final Content work time. No classes on Nov 27-29. [Final Product continued]() |   |
+15 (Dec.2-6) | Final Content work time | [Final Product DUE]()  |
+16 (Dec.9-13) | Final Content Showcase | |
 
 ## Instructor
 
@@ -101,7 +101,7 @@ GitHub and Discord are the main digital channels used in this course for communi
 
 ### Department Policies
 
-In this course, we will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. 
+In this course, we will follow [department's policies](https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, and AI use. Non-participation in a class activity will result in a missed attendance mark.
 
 ### Grading
 
@@ -129,7 +129,7 @@ Tokens may be used for these assignments as described in the department's policy
 
 ##### Reading Discussion
 
-Given specific prompts and proceduring, leading discussion on a short text or video.
+Given specific prompts and procedures, leading a discussion on a short text.
 
 ##### Prompts
 
