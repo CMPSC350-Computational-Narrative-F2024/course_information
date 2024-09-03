@@ -29,18 +29,18 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 Week #         | Topic                      | Assignments  | Reading
 ---------------| -------------------------- | ----------------------- | -----------
 1 (Aug.26-30) | [Introduction to the course](https://docs.google.com/presentation/d/1LmCchCB-tMoU_6oz1JDzMSK-E88J7PIppuCBkqy7uGs/pub?start=false&loop=false&delayms=3000). [Narrative](https://docs.google.com/presentation/d/1WwFhxsR0jzQbvhEaduDkxWGIKZLjB12yNNpN85sWNUE/pub?start=false&loop=false&delayms=3000). | --- | Syllabus. [Policies](https://www.cis.allegheny.edu/teaching/policies/).
-2 (Sep.2-6)   | No Class on September 2nd. Narrative Design. [Twine](http://twinery.org/). |  [Project 1]()    |
-3 (Sep.9-13)  | No Class on September 9th. Constraints. | [Project 1 continued]() |
-4 (Sep.16-20) | Constraints.  | [Project 1 continued]() | 
-5 (Sep.23-27) | Environmental Storytelling  | [Project 1 DUE]() [Project 2]() |
-6 (Sep.30-Oct.4) | Grammar-based generation | [Project 2 continued]() |
-7 (Oct.7-11) | No class on October 11th.| [Project 2 continued]() |
-8 (Oct.14-18) | Simulation and narrative|  [Project 2 DUE]() [Project 3]() |
-9 (Oct.21-25) | Critical computation |  [Project 3 continued]() |
-10 (Oct.28-Nov.1) | Fiction and world models | [Project 3 continued]() |
+2 (Sep.2-6)   | No Class on September 2nd. Narrative Design. [Twine](http://twinery.org/). |  [Project 1]()    | [Twine Reference](http://twinery.org/reference/en/). [Taxonomy of Narrative Choices](https://clarafv.itch.io/taxonomy-of-narrative-choices). 
+3 (Sep.9-13)  | No Class on September 9th. Constraints. | [Project 1 continued](). | [Do LLMs understand us?](https://drive.google.com/file/d/1jUYFjey6Av4a4JThjVxaDoxhEfj3w7I4/view?usp=sharing)
+4 (Sep.16-20) | Constraints. Reading 1 Discussion. | [Project 1 continued]().  | 
+5 (Sep.23-27) | Environmental Storytelling.  | [Project 1 DUE]() [Project 2]() |
+6 (Sep.30-Oct.4) | Grammar-based generation. Reading 2 Discussion.  | [Project 2 continued]() | 
+7 (Oct.7-11) | No class on October 11th. Reading 3 Discussion.| [Project 2 continued]() |
+8 (Oct.14-18) | Simulation and narrative|  [Project 2 DUE]() [Project 3]() | 
+9 (Oct.21-25) | Critical computation. Reading 4 Discussion.  |  [Project 3 continued]() |
+10 (Oct.28-Nov.1) | Fiction and world models. Reading 5 Discussion. | [Project 3 continued]() |
 11 (Nov.4-8) | Visual narrative |  [Project 3 DUE]() |
 12 (Nov.11-15) | No class on November 11th. | [Final Product]()  |
-13 (Nov.18-22) | Final Content work time. | [Final Product continued]()  |
+13 (Nov.18-22) | Final Content work time. Reading 6 Discussion. | [Final Product continued]()  |
 14 (Nov.25-29) | Final Content work time. No classes on Nov 27-29. [Final Product continued]() |   |
 15 (Dec.2-6) | Final Content work time | [Final Product DUE]()  |
 16 (Dec.9-13) | Final Content Showcase | |
