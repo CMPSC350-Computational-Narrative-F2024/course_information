@@ -4,7 +4,7 @@ This repository contains information about the Computational Narrative course, i
 
 # Content
 
-- [**Schedule**](#Schedule)
+- [**Schedule**](#Course-Flow-and-Schedule)
 - [Instructor](#Instructor)
 - [Course Description](#Description)
 - [Course Objectives](#Objectives)
