@@ -20,9 +20,9 @@ the caveat that session purposes may change slightly given course circumstances.
 |Day of the week           |Session Type |Session purpose            |
 |--------------------------|-------------|---------------------------|
 |Monday                    |Class        |Discussion, activities     |
-|Wednesday                 |Class        |Prompting work             |
-|Friday                    |Class        |Critique                   |
-|Friday                    |Lab          |Workshop: planning, work time |
+|Wednesday                 |Class        |Activities, prompting work             |
+|Friday                    |Class        |Prompting work             |
+|Friday                    |Lab          |Critique & Workshop |
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change.
 
