@@ -123,7 +123,7 @@ At the end of the semester, I have to give you a grade, and for that we will fol
 
 Assignments which do not fulfill all of the basic requirements will be defined as `Incomplete`. Assignments which do not display any attempt at completion (i.e. the GitHub Classroom Bot is the last `commit`er) will be defined as `Ignored` assignments. 
 
-Tokens may be used for these assignments as described in the department's policy with the exception of the final product assignment. __If a student fails to submit the final product, their course grade for the semester will be an `F`.__
+[Tokens](https://forms.gle/GYenRtxS4Qg2gJ3m8) may be used for these assignments as described in the department's policy with the exception of the final product assignment. Tokens can be requested anytime before Thanksgiving break. __If a student fails to submit the final product, their course grade for the semester will be an `F`.__
 
 #### A note about assignment types
 
