@@ -39,8 +39,8 @@ Week #         | Topic                      | Assignments  | Reading
 9 (Oct.21-25) | Critical computation. Simulation and narrative. [Reading 5 Discussion on 10/21 - AH lead](https://docs.google.com/presentation/d/1BJGRjs1eQ5ApgNIQfRQygW5aLRxbKj5TBJonHJyIVhM/pub?start=false&loop=false&delayms=3000).  |  <ul><li>Prompt 6.</li> <li>[Project 3 continued]() </li> |
 10 (Oct.28-Nov.1) | Fiction and world models. [Reading 6 Discussion on 10/28 - AZ lead](https://docs.google.com/presentation/d/1BJGRjs1eQ5ApgNIQfRQygW5aLRxbKj5TBJonHJyIVhM/pub?start=false&loop=false&delayms=3000). | Prompt 7. [Project 3 continued]() |
 11 (Nov.4-8) | Visual narrative |  Prompt 8. [Project 3 DUE]() |
-12 (Nov.11-15) | No class on November 11th. | [Final Product]()  |
-13 (Nov.18-22) | Final Content work time. [Reading 7 Discussion on 11/18 - SP lead](https://docs.google.com/presentation/d/1BJGRjs1eQ5ApgNIQfRQygW5aLRxbKj5TBJonHJyIVhM/pub?start=false&loop=false&delayms=3000). | [Final Product continued]()  |
+12 (Nov.11-15) | No class on November 11th. [Reading 7 Discussion on 11/18 - SP lead](https://docs.google.com/presentation/d/1BJGRjs1eQ5ApgNIQfRQygW5aLRxbKj5TBJonHJyIVhM/pub?start=false&loop=false&delayms=3000). | [Final Product]()  |
+13 (Nov.18-22) | Final Content work time. | [Final Product continued]()  |
 14 (Nov.25-29) | Final Content work time. No classes on Nov 27-29. [Final Product continued]() |   |
 15 (Dec.2-6) | Final Content work time | [Final Product DUE]()  |
 16 (Dec.9-13) | Final Content Showcase | |
