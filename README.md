@@ -42,7 +42,7 @@ Week #         | Topic                      | Assignments  | Reading
 12 (Nov.11-15) | No class on November 11th.  | [Final Product](https://classroom.github.com/a/7QHd2qos)  |
 13 (Nov.18-22) | <ul><li>[Evaluation](https://docs.google.com/presentation/d/e/2PACX-1vTUkSwkWcb3kgwnuH0SzTncWARgmFeG5VSnuk8qD7dRVvtPGkBS6P01WcpxAadakqtsUNIMNAUcodz9/pub?start=false&loop=false&delayms=3000).</li> <li>[Experiments](https://docs.google.com/spreadsheets/d/1yAJn1bH597iZSNSJbEjjH9tM_S5BV3KfKcjLN9sJU94/edit?usp=sharing).</li><li>Final Content work time. </li></ul>| [Final Product continued](https://classroom.github.com/a/7QHd2qos). Project Progress Share during lab on Nov. 22. | 
 14 (Nov.25-29) | [Prompt Data Evaluation](https://docs.google.com/spreadsheets/d/14ARjMLoHkX9YWg8T7neAVBhS7glh5H44ukX_vJm608A/edit?usp=sharing). No classes on Nov 27-29.|  [Final Product continued](https://classroom.github.com/a/7QHd2qos)  | [Hugging Face Website](https://huggingface.co/).
-15 (Dec.2-6) | Final Content work time | [Final Product DUE](https://classroom.github.com/a/7QHd2qos). Project Progress Report DUE Dec. 2 by 12pm. Presentations on December 6th.  |
+15 (Dec.2-6) | Final Content work time | <ul><li> Project Progress Report DUE Dec. 2 by 12pm.</li> <li> Final Presentations on December 6th. </li> </ul>  |
 16 (Dec.9-13) | Final Content DUE by 9am on December 12th. | |
 
 ## Instructor
